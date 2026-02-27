@@ -104,8 +104,7 @@ curl http://localhost:30000/v1/chat/completions \
   }'
 
 
-
-Python Script to Route Between Two Ollama Models via SMG:
+# Python script to Route between two ollama models
 
 Step 1:
 # Terminal: Download two different models
