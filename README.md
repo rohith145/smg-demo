@@ -1,16 +1,5 @@
-# smg-demo
+![Uploading image.png…]()
 
-Client Request (Port 30000)
-    ↓
-SMG Router (Model Gateway)
-    ↓
-Ollama Adapter (Port 8000)
-    ↓
-Ollama Server (Port 11434)
-    ↓
-TinyLlama Model
-    ↓
-Response
 
 
 
